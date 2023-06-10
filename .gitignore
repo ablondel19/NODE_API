@@ -2,3 +2,4 @@ backend/node_modules
 backend/.env
 backend/dummydata.json
 backend/prisma/migrations
+frontend/app/node_modules

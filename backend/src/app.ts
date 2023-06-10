@@ -46,5 +46,5 @@ app.get('/show', (req, res) => {
 });
 
 app.use('/api', userController);
-app.listen(3000);
+app.listen(3001);
 export default app;
